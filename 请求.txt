@@ -1,0 +1,1 @@
+https://api.seniverse.com/v3/weather/now.json?key=SQb5Q0jZHGTFG8nq9&location=beijing&language=zh-Hans&unit=c
